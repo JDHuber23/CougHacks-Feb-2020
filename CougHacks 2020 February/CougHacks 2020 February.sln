@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReachOutdev", "ReachOutdev\ReachOutdev.csproj", "{19AB2A3F-E332-4530-9858-75EE65C4F699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReachOutdev", "ReachOutdev\ReachOutdev.csproj", "{19AB2A3F-E332-4530-9858-75EE65C4F699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+		{3754C236-CF08-4972-BFC1-7AB02FBB7ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3754C236-CF08-4972-BFC1-7AB02FBB7ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3754C236-CF08-4972-BFC1-7AB02FBB7ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3754C236-CF08-4972-BFC1-7AB02FBB7ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> master
+		{19AB2A3F-E332-4530-9858-75EE65C4F699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AB2A3F-E332-4530-9858-75EE65C4F699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AB2A3F-E332-4530-9858-75EE65C4F699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AB2A3F-E332-4530-9858-75EE65C4F699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA635A3B-015E-496A-B0CA-4BEB8825DB02}
+	EndGlobalSection
+EndGlobal
